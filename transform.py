@@ -34,15 +34,12 @@ with open('myfile.mw', 'w') as f:
         days=Convert(days)
         start_time=(row['Start Time'][:-6] + row['Start Time'][-3:]).replace(" ","")
         if row['Schedule Type']=='Daily ':
-            for i in range(1,31):
-                try:
-                    today_date=datetime.date(today_date.year, today_date.month,i)
-                    command=today_date.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
-                    f.write(command)
-                    f.write(str(row['Days']) + '\n')
-                    f.write(str(row['Comment']) + '\n')
-                except:
-                    pass
+            for i in range(0,6):
+                today_date2=today_date+datetime.timedelta(days=i)
+                command=today_date2.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
+                f.write(command)
+                f.write(str(row['Days']) + '\n')
+                f.write(str(row['Comment']) + '\n')
         elif row['Schedule Type']=='Weekly':
             for i in days:
                 start_date=next_weekday(today_date,weekday_a.index(i))
@@ -75,5 +72,4 @@ def git_push():
     origin = repo.remote(name='origin')
     origin.push()
     
-
 git_push()
