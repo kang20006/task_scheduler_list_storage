@@ -36,17 +36,17 @@ with open('myfile.mw', 'w') as f:
         if row['Schedule Type']=='Daily ':
             for i in range(0,6):
                 today_date2=today_date+datetime.timedelta(days=i)
-                command=today_date2.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
+                command = today_date2.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + '\n'
                 f.write(command)
                 f.write(str(row['Days']) + '\n')
-                f.write(str(row['Comment']) + '\n')
+                f.write(str(row['Comment']) + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+'\n')
         elif row['Schedule Type']=='Weekly':
             for i in days:
                 start_date=next_weekday(today_date,weekday_a.index(i))
-                command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
+                command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
                 f.write(command)
                 f.write(str(row['Days']) + '\n')
-                f.write(str(row['Comment']) + '\n')
+                f.write(str(row['Comment']) +' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n')
         elif row['Schedule Type']=='Monthly':
             for i in days:
                 if i!= 'Second MON' and int(i) != 32:
@@ -54,10 +54,10 @@ with open('myfile.mw', 'w') as f:
                         start_date=datetime.date(today_date.year, today_date.month,int(i))
                     except:
                         pass  
-                    command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
+                    command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
                     f.write(command)
                     f.write(str(row['Days']) + '\n')
-                f.write(str(row['Comment']) + '\n')
+                f.write(str(row['Comment']) + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+'\n')
         f.write('endGroup \n')
 
 from git import Repo
