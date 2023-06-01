@@ -36,7 +36,7 @@ with open('myfile.mw', 'w') as f:
         if row['Schedule Type']=='Daily ':
             for i in range(1,31):
                 try:
-                    today_date=datetime.date(today_date.year, today_date.month,int(i))
+                    today_date=datetime.date(today_date.year, today_date.month,i)
                     command=today_date.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
                     f.write(command)
                     f.write(str(row['Days']) + '\n')
