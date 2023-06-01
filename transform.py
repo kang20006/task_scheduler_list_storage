@@ -60,3 +60,18 @@ with open('myfile.mw', 'w') as f:
                     f.write(str(row['Days']) + '\n')
                 f.write(str(row['Comment']) + '\n')
         f.write('endGroup \n')
+
+from git import Repo
+import os 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+PATH_OF_GIT_REPO =os.path.join(dir_path, '.git')  # make sure .git folder is properly configured
+COMMIT_MESSAGE = 'comment from python script'
+def git_push():
+    repo = Repo(PATH_OF_GIT_REPO)
+    repo.git.add(update=True)
+    repo.index.commit(COMMIT_MESSAGE)
+    origin = repo.remote(name='origin')
+    origin.push()
+    
+
+git_push()
