@@ -24,7 +24,7 @@ with open('myfile.mw', 'w') as f:
     f.write('title:\n')
     f.write('key:\n -taks\n')
     for index, row in new_df.iterrows():
-        f.write('group '+ row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n') 
+        f.write('group '+ row['TaskName']) 
         start_date=datetime.datetime.strptime(row['Start Date'], '%d/%m/%Y')
         today_date=today
         commands=[]
@@ -35,7 +35,7 @@ with open('myfile.mw', 'w') as f:
             for i in range(0,31):
                 try:
                     today_date=datetime.date(today_date.year, today_date.month,int(i))
-                    command=today_date.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName']+'\n'
+                    command=today_date.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
                     f.write(command)
                     f.write(str(row['Days']) + '\n')
                     f.write(str(row['Comment']) + '\n')
@@ -44,7 +44,7 @@ with open('myfile.mw', 'w') as f:
         elif row['Schedule Type']=='Weekly':
             for i in days:
                 start_date=next_weekday(today_date,weekday_a.index(i))
-                command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+'\n'
+                command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
                 f.write(command)
                 f.write(str(row['Days']) + '\n')
                 f.write(str(row['Comment']) + '\n')
@@ -55,7 +55,7 @@ with open('myfile.mw', 'w') as f:
                         start_date=datetime.date(today_date.year, today_date.month,int(i))
                     except:
                         pass  
-                    command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+'\n'
+                    command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
                     f.write(command)
                     f.write(str(row['Days']) + '\n')
                 f.write(str(row['Comment']) + '\n')
