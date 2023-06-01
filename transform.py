@@ -59,7 +59,7 @@ with open('myfile.mw', 'w') as f:
                         command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
                         f.write(command)
                         f.write(str(row['Days']) + '\n')
-                f.write(str(row['Comment']) + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+'\n')
+                        f.write(str(row['Comment']) + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+'\n')
         f.write('endGroup \n')
 
 from git import Repo
