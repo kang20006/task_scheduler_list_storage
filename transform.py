@@ -26,7 +26,7 @@ with open('myfile.mw', 'w') as f:
     f.write('title:\n')
     f.write('key:\n -taks\n')
     for index, row in new_df.iterrows():
-        f.write('group '+ row['TaskName']) 
+        f.write('group '+ row['TaskName']+'\n') 
         start_date=datetime.datetime.strptime(row['Start Date'], '%d/%m/%Y')
         today_date=today
         commands=[]
