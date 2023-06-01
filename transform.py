@@ -55,7 +55,7 @@ with open('myfile.mw', 'w') as f:
                         start_date=datetime.date(today_date.year, today_date.month,int(i))
                     except:
                         pass  
-                    if start_date<=today_date.date()+datetime.timedelta(days=7):
+                    if start_date<today_date.date()+datetime.timedelta(days=7):
                         command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
                         f.write(command)
                         f.write(str(row['Days']) + '\n')
