@@ -32,7 +32,7 @@ with open('myfile.mw', 'w') as f:
         days=Convert(days)
         start_time=(row['Start Time'][:-6] + row['Start Time'][-3:]).replace(" ","")
         if row['Schedule Type']=='Daily ':
-            for i in range(0,31):
+            for i in range(1,31):
                 try:
                     today_date=datetime.date(today_date.year, today_date.month,int(i))
                     command=today_date.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n'
