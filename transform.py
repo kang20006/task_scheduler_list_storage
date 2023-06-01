@@ -34,7 +34,7 @@ with open('myfile.mw', 'w') as f:
         days=Convert(days)
         start_time=(row['Start Time'][:-6] + row['Start Time'][-3:]).replace(" ","")
         if row['Schedule Type']=='Daily ':
-            for i in range(0,6):
+            for i in range(0,7):
                 today_date2=today_date+datetime.timedelta(days=i)
                 command = today_date2.strftime("%d %b %Y") +' '+start_time + ': ' + row['TaskName'] + '\n'
                 f.write(command)
