@@ -24,7 +24,21 @@ def Convert(string):
 weekday_a=['MON','TUE',"WED","THU","FRI","SAT","SUN"]
 with open('myfile.mw', 'w') as f:
     f.write('title:\n')
-    f.write('key:\n -taks\n')
+    f.write('key:\n -task\n')
+    f.write('#wksio: #FFFF00 \n')
+    f.write('#wqho: #808000 \n')
+    f.write('#ykho: #00FF00 \n')
+    f.write('#slmanalytics: #008000 \n')
+    f.write('#jlkor: #00FFFF \n')
+    f.write('#juanita: #FF00FF \n')
+    f.write('#lkkang: #800080 \n')
+    f.write('#yttan: #808080 \n')
+    f.write('#naomikoeh: #008080 \n')
+    f.write('#Ready: #DFFF00 \n')
+    f.write('#Disabled: #FF0000 \n')
+    f.write('#Weekly: #CCCCFF \n')
+    f.write('#Monthly: #6495ED \n')
+    f.write('#Daily: #FFBF00 \n')
     for index, row in new_df.iterrows():
         f.write('group '+ row['TaskName']+'\n') 
         start_date=datetime.datetime.strptime(row['Start Date'], '%d/%m/%Y')

@@ -1,6 +1,20 @@
 title:
 key:
- -taks
+ -task
+#wksio: #FFFF00 
+#wqho: #808000 
+#ykho: #00FF00 
+#slmanalytics: #008000 
+#jlkor: #00FFFF 
+#juanita: #FF00FF 
+#lkkang: #800080 
+#yttan: #808080 
+#naomikoeh: #008080 
+#Ready: #DFFF00 
+#Disabled: #FF0000 
+#Weekly: #CCCCFF 
+#Monthly: #6495ED 
+#Daily: #FFBF00 
 group \Billing - DMTM TAT Tracking
 05 Jun 2023 9:50AM: \Billing - DMTM TAT Tracking
 MON, TUE, WED, THU, FRI
