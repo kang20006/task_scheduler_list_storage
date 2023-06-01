@@ -49,14 +49,16 @@ with open('myfile.mw', 'w') as f:
                 f.write(str(row['Comment']) +' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+ '\n')
         elif row['Schedule Type']=='Monthly':
             for i in days:
+                
                 if i!= 'Second MON' and int(i) != 32:
                     try: 
                         start_date=datetime.date(today_date.year, today_date.month,int(i))
                     except:
                         pass  
-                    command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
-                    f.write(command)
-                    f.write(str(row['Days']) + '\n')
+                    if start_date<=today_date.date()+datetime.timedelta(days=7):
+                        command= start_date.strftime("%d %b %Y") +' '+start_time +': ' + row['TaskName']+ '\n'
+                        f.write(command)
+                        f.write(str(row['Days']) + '\n')
                 f.write(str(row['Comment']) + ' #' + row['Author'][5:] + ' #' + row['Status'] + ' #'+row['Schedule Type']+'\n')
         f.write('endGroup \n')
 
