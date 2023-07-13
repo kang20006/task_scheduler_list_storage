@@ -22,7 +22,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 9:50AM: \Billing - DMTM TAT Tracking
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 9:50AM: \Billing - DMTM TAT Tracking
+19 Jul 2023 9:50AM: \Billing - DMTM TAT Tracking
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 9:50AM: \Billing - DMTM TAT Tracking
@@ -39,7 +39,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 10:10AM: \Billing - DMTM TAT Tracking (RTC)
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 10:10AM: \Billing - DMTM TAT Tracking (RTC)
+19 Jul 2023 10:10AM: \Billing - DMTM TAT Tracking (RTC)
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 10:10AM: \Billing - DMTM TAT Tracking (RTC)
@@ -56,7 +56,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 8:30AM: \Client - Engagement Datamart
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 8:30AM: \Client - Engagement Datamart
+19 Jul 2023 8:30AM: \Client - Engagement Datamart
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 8:30AM: \Client - Engagement Datamart
@@ -73,7 +73,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 3:00PM: \Client - Engagement Datamart
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 3:00PM: \Client - Engagement Datamart
+19 Jul 2023 3:00PM: \Client - Engagement Datamart
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 3:00PM: \Client - Engagement Datamart
@@ -90,7 +90,7 @@ Self-service Leads Generator (Client Services) #naomikoeh #Disabled #Weekly
 18 Jul 2023 12:45PM: \Client Services - Leads Generator
 MON, TUE, WED, THU, FRI
 Self-service Leads Generator (Client Services) #naomikoeh #Disabled #Weekly
-12 Jul 2023 12:45PM: \Client Services - Leads Generator
+19 Jul 2023 12:45PM: \Client Services - Leads Generator
 MON, TUE, WED, THU, FRI
 Self-service Leads Generator (Client Services) #naomikoeh #Disabled #Weekly
 13 Jul 2023 12:45PM: \Client Services - Leads Generator
@@ -152,6 +152,9 @@ nan #jlkor #Ready #Monthly
 18 Jul 2023 12:05PM: \Collection Dashboard - Refresh Billing Source Files
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #jlkor #Ready #Monthly
+19 Jul 2023 12:05PM: \Collection Dashboard - Refresh Billing Source Files
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #jlkor #Ready #Monthly
 endGroup 
 group \Collection Dashboard - Refresh Billing Source Files
 01 Jul 2023 2:20PM: \Collection Dashboard - Refresh Billing Source Files
@@ -210,6 +213,9 @@ nan #slmanalytics #Ready #Monthly
 18 Jul 2023 1:05PM: \Collection Dashboard - Refresh Dashboard
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #slmanalytics #Ready #Monthly
+19 Jul 2023 1:05PM: \Collection Dashboard - Refresh Dashboard
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Collection Dashboard - Refresh Dashboard
 01 Jul 2023 3:05PM: \Collection Dashboard - Refresh Dashboard
@@ -222,9 +228,6 @@ group \Conservation - Create folder (Monthly)
 nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Conservation - CSE Manual Update Refresh
-12 Jul 2023 8:01AM: \Conservation - CSE Manual Update Refresh
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 8:01AM: \Conservation - CSE Manual Update Refresh
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -243,11 +246,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 8:01AM: \Conservation - CSE Manual Update Refresh
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
-endGroup 
-group \Conservation - Monthly Exclusion Listing
-12 Jul 2023 7:00AM: \Conservation - Monthly Exclusion Listing
+19 Jul 2023 8:01AM: \Conservation - CSE Manual Update Refresh
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+endGroup 
+group \Conservation - Monthly Exclusion Listing
 13 Jul 2023 7:00AM: \Conservation - Monthly Exclusion Listing
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -266,11 +269,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 7:00AM: \Conservation - Monthly Exclusion Listing
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+19 Jul 2023 7:00AM: \Conservation - Monthly Exclusion Listing
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
 endGroup 
 group \Conservation - SunCRM SAS
-12 Jul 2023 5:45PM: \Conservation - SunCRM SAS
-Every 1 day(s)
-SAS data processing SunCRM records #slmanalytics #Ready #Daily 
 13 Jul 2023 5:45PM: \Conservation - SunCRM SAS
 Every 1 day(s)
 SAS data processing SunCRM records #slmanalytics #Ready #Daily 
@@ -289,11 +292,11 @@ SAS data processing SunCRM records #slmanalytics #Ready #Daily
 18 Jul 2023 5:45PM: \Conservation - SunCRM SAS
 Every 1 day(s)
 SAS data processing SunCRM records #slmanalytics #Ready #Daily 
+19 Jul 2023 5:45PM: \Conservation - SunCRM SAS
+Every 1 day(s)
+SAS data processing SunCRM records #slmanalytics #Ready #Daily 
 endGroup 
 group \Conservation - SunCRM Webscrap
-12 Jul 2023 5:31PM: \Conservation - SunCRM Webscrap
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 5:31PM: \Conservation - SunCRM Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -312,11 +315,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 5:31PM: \Conservation - SunCRM Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
-endGroup 
-group \Current Billing Status
-12 Jul 2023 3:36AM: \Current Billing Status
+19 Jul 2023 5:31PM: \Conservation - SunCRM Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+endGroup 
+group \Current Billing Status
 13 Jul 2023 3:36AM: \Current Billing Status
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -333,6 +336,9 @@ nan #slmanalytics #Ready #Daily
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 18 Jul 2023 3:36AM: \Current Billing Status
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
+19 Jul 2023 3:36AM: \Current Billing Status
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 endGroup 
@@ -386,6 +392,9 @@ nan #slmanalytics #Ready #Monthly
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #slmanalytics #Ready #Monthly
 18 Jul 2023 11:15AM: \Daily APL Listing (Outlook & SAS)
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #slmanalytics #Ready #Monthly
+19 Jul 2023 11:15AM: \Daily APL Listing (Outlook & SAS)
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #slmanalytics #Ready #Monthly
 endGroup 
@@ -446,6 +455,9 @@ Daily Conservation Report to Bernie's Team #slmanalytics #Ready #Monthly
 18 Jul 2023 2:35PM: \Daily Conservation Report
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 Daily Conservation Report to Bernie's Team #slmanalytics #Ready #Monthly
+19 Jul 2023 2:35PM: \Daily Conservation Report
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+Daily Conservation Report to Bernie's Team #slmanalytics #Ready #Monthly
 endGroup 
 group \Daily Conservation Report
 01 Jul 2023 4:35PM: \Daily Conservation Report
@@ -504,6 +516,9 @@ nan #slmanalytics #Ready #Monthly
 18 Jul 2023 9:55AM: \Daily Data Changes
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #slmanalytics #Ready #Monthly
+19 Jul 2023 9:55AM: \Daily Data Changes
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Daily Data Changes
 01 Jul 2023 1:05PM: \Daily Data Changes
@@ -511,7 +526,7 @@ group \Daily Data Changes
 nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Distribution - Agency Listing
-12 Jul 2023 9:50AM: \Distribution - Agency Listing
+19 Jul 2023 9:50AM: \Distribution - Agency Listing
 WED
 For Shing Li and Calvin #juanita #Ready #Weekly
 endGroup 
@@ -529,9 +544,6 @@ Weekly ladder report send to sales team and bosses in distribution team every mo
 Weekly ladder report send to sales team and bosses in distribution team every monday. #juanita #Ready #Monthly
 endGroup 
 group \Distribution - Banca Master Data
-12 Jul 2023 12:00PM: \Distribution - Banca Master Data
-Every 1 day(s)
-CY's banca source file #juanita #Ready #Daily 
 13 Jul 2023 12:00PM: \Distribution - Banca Master Data
 Every 1 day(s)
 CY's banca source file #juanita #Ready #Daily 
@@ -550,6 +562,9 @@ CY's banca source file #juanita #Ready #Daily
 18 Jul 2023 12:00PM: \Distribution - Banca Master Data
 Every 1 day(s)
 CY's banca source file #juanita #Ready #Daily 
+19 Jul 2023 12:00PM: \Distribution - Banca Master Data
+Every 1 day(s)
+CY's banca source file #juanita #Ready #Daily 
 endGroup 
 group \Distribution - Banca Master Data
 01 Jul 2023 12:55PM: \Distribution - Banca Master Data
@@ -563,7 +578,7 @@ Send by daily, approximate 2 months selling exercise by RM #juanita #Disabled #W
 18 Jul 2023 1:55PM: \Distribution - Banca Sun Uniq-i Ladder Report
 MON, TUE, WED, THU, FRI
 Send by daily, approximate 2 months selling exercise by RM #juanita #Disabled #Weekly
-12 Jul 2023 1:55PM: \Distribution - Banca Sun Uniq-i Ladder Report
+19 Jul 2023 1:55PM: \Distribution - Banca Sun Uniq-i Ladder Report
 MON, TUE, WED, THU, FRI
 Send by daily, approximate 2 months selling exercise by RM #juanita #Disabled #Weekly
 13 Jul 2023 1:55PM: \Distribution - Banca Sun Uniq-i Ladder Report
@@ -574,9 +589,6 @@ MON, TUE, WED, THU, FRI
 Send by daily, approximate 2 months selling exercise by RM #juanita #Disabled #Weekly
 endGroup 
 group \Distribution - CPA Figures
-12 Jul 2023 9:30AM: \Distribution - CPA Figures
-Every 1 day(s)
-For DMTM ladder report #juanita #Ready #Daily 
 13 Jul 2023 9:30AM: \Distribution - CPA Figures
 Every 1 day(s)
 For DMTM ladder report #juanita #Ready #Daily 
@@ -593,6 +605,9 @@ For DMTM ladder report #juanita #Ready #Daily
 Every 1 day(s)
 For DMTM ladder report #juanita #Ready #Daily 
 18 Jul 2023 9:30AM: \Distribution - CPA Figures
+Every 1 day(s)
+For DMTM ladder report #juanita #Ready #Daily 
+19 Jul 2023 9:30AM: \Distribution - CPA Figures
 Every 1 day(s)
 For DMTM ladder report #juanita #Ready #Daily 
 endGroup 
@@ -666,6 +681,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 11:15AM: \Distribution - DMTM BDM Cube
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 11:15AM: \Distribution - DMTM BDM Cube
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \Distribution - DMTM BDM Cube
 01 Jul 2023 3:15PM: \Distribution - DMTM BDM Cube
@@ -737,6 +755,9 @@ IT_SFTP_DMTM #juanita #Ready #Monthly
 18 Jul 2023 9:45AM: \Distribution - DMTM Daily Data
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 IT_SFTP_DMTM #juanita #Ready #Monthly
+19 Jul 2023 9:45AM: \Distribution - DMTM Daily Data
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+IT_SFTP_DMTM #juanita #Ready #Monthly
 endGroup 
 group \Distribution - DMTM Daily Data
 01 Jul 2023 12:45PM: \Distribution - DMTM Daily Data
@@ -795,6 +816,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 10:16AM: \Distribution - DMTM Ladder Report
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 10:16AM: \Distribution - DMTM Ladder Report
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \Distribution - DMTM Ladder Report
 01 Jul 2023 2:15PM: \Distribution - DMTM Ladder Report
@@ -802,9 +826,6 @@ group \Distribution - DMTM Ladder Report
 nan #juanita #Ready #Monthly
 endGroup 
 group \Distribution - DMTM Rapid Data
-12 Jul 2023 8:00AM: \Distribution - DMTM Rapid Data
-Every 1 day(s)
-Rapid daily data since Year 2008 #juanita #Ready #Daily 
 13 Jul 2023 8:00AM: \Distribution - DMTM Rapid Data
 Every 1 day(s)
 Rapid daily data since Year 2008 #juanita #Ready #Daily 
@@ -821,6 +842,9 @@ Rapid daily data since Year 2008 #juanita #Ready #Daily
 Every 1 day(s)
 Rapid daily data since Year 2008 #juanita #Ready #Daily 
 18 Jul 2023 8:00AM: \Distribution - DMTM Rapid Data
+Every 1 day(s)
+Rapid daily data since Year 2008 #juanita #Ready #Daily 
+19 Jul 2023 8:00AM: \Distribution - DMTM Rapid Data
 Every 1 day(s)
 Rapid daily data since Year 2008 #juanita #Ready #Daily 
 endGroup 
@@ -859,9 +883,6 @@ group \Distribution - IHCC Staff Listing
 nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Distribution - IHCC SunCRM Call Log
-12 Jul 2023 8:30AM: \Distribution - IHCC SunCRM Call Log
-Every 1 day(s)
-run SAS #slmanalytics #Ready #Daily 
 13 Jul 2023 8:30AM: \Distribution - IHCC SunCRM Call Log
 Every 1 day(s)
 run SAS #slmanalytics #Ready #Daily 
@@ -880,11 +901,11 @@ run SAS #slmanalytics #Ready #Daily
 18 Jul 2023 8:30AM: \Distribution - IHCC SunCRM Call Log
 Every 1 day(s)
 run SAS #slmanalytics #Ready #Daily 
+19 Jul 2023 8:30AM: \Distribution - IHCC SunCRM Call Log
+Every 1 day(s)
+run SAS #slmanalytics #Ready #Daily 
 endGroup 
 group \Distribution - IHCC SunCRM Call Log Webscrap
-12 Jul 2023 8:00AM: \Distribution - IHCC SunCRM Call Log Webscrap
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 8:00AM: \Distribution - IHCC SunCRM Call Log Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -901,6 +922,9 @@ nan #slmanalytics #Ready #Daily
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 18 Jul 2023 8:00AM: \Distribution - IHCC SunCRM Call Log Webscrap
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
+19 Jul 2023 8:00AM: \Distribution - IHCC SunCRM Call Log Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 endGroup 
@@ -954,6 +978,9 @@ For Shiney/Fatin #juanita #Disabled #Monthly
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 For Shiney/Fatin #juanita #Disabled #Monthly
 18 Jul 2023 11:30AM: \Distribution - Movement Report
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+For Shiney/Fatin #juanita #Disabled #Monthly
+19 Jul 2023 11:30AM: \Distribution - Movement Report
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 For Shiney/Fatin #juanita #Disabled #Monthly
 endGroup 
@@ -1014,6 +1041,9 @@ For Shiney/Fatin #juanita #Ready #Monthly
 18 Jul 2023 11:30AM: \Distribution - Movement Report (New)
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
 For Shiney/Fatin #juanita #Ready #Monthly
+19 Jul 2023 11:30AM: \Distribution - Movement Report (New)
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
+For Shiney/Fatin #juanita #Ready #Monthly
 endGroup 
 group \Distribution - Movement Report (New)
 01 Jul 2023 2:30PM: \Distribution - Movement Report (New)
@@ -1037,7 +1067,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 8:15AM: \Distribution - RED Incomplete Report
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 8:15AM: \Distribution - RED Incomplete Report
+19 Jul 2023 8:15AM: \Distribution - RED Incomplete Report
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 8:15AM: \Distribution - RED Incomplete Report
@@ -1048,9 +1078,6 @@ MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 endGroup 
 group \Distribution - SunSmart Reporting System
-12 Jul 2023 4:45PM: \Distribution - SunSmart Reporting System
-Every 1 day(s)
-For Fatin SunSmart upload to sharepoint #juanita #Ready #Daily 
 13 Jul 2023 4:45PM: \Distribution - SunSmart Reporting System
 Every 1 day(s)
 For Fatin SunSmart upload to sharepoint #juanita #Ready #Daily 
@@ -1069,11 +1096,11 @@ For Fatin SunSmart upload to sharepoint #juanita #Ready #Daily
 18 Jul 2023 4:45PM: \Distribution - SunSmart Reporting System
 Every 1 day(s)
 For Fatin SunSmart upload to sharepoint #juanita #Ready #Daily 
+19 Jul 2023 4:45PM: \Distribution - SunSmart Reporting System
+Every 1 day(s)
+For Fatin SunSmart upload to sharepoint #juanita #Ready #Daily 
 endGroup 
 group \Distribution - SunSmart Webscrap
-12 Jul 2023 4:30PM: \Distribution - SunSmart Webscrap
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 4:30PM: \Distribution - SunSmart Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -1090,6 +1117,9 @@ nan #slmanalytics #Ready #Daily
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 18 Jul 2023 4:30PM: \Distribution - SunSmart Webscrap
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
+19 Jul 2023 4:30PM: \Distribution - SunSmart Webscrap
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 endGroup 
@@ -1145,6 +1175,9 @@ For BES Team (Sandra/Kay/Nurzahirah) #lkkang #Ready #Monthly
 18 Jul 2023 11:00AM: \Distribution - Validation Call Report
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 For BES Team (Sandra/Kay/Nurzahirah) #lkkang #Ready #Monthly
+19 Jul 2023 11:00AM: \Distribution - Validation Call Report
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+For BES Team (Sandra/Kay/Nurzahirah) #lkkang #Ready #Monthly
 endGroup 
 group \Distribution - Validation Call Report
 01 Jul 2023 2:00PM: \Distribution - Validation Call Report
@@ -1152,9 +1185,6 @@ group \Distribution - Validation Call Report
 For BES Team (Sandra/Kay/Nurzahirah) #lkkang #Ready #Monthly
 endGroup 
 group \Export Task Scheduler xml
-12 Jul 2023 1:00AM: \Export Task Scheduler xml
-Every 1 day(s)
-nan #slmanalytics #Disabled #Daily 
 13 Jul 2023 1:00AM: \Export Task Scheduler xml
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
@@ -1173,11 +1203,11 @@ nan #slmanalytics #Disabled #Daily
 18 Jul 2023 1:00AM: \Export Task Scheduler xml
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
+19 Jul 2023 1:00AM: \Export Task Scheduler xml
+Every 1 day(s)
+nan #slmanalytics #Disabled #Daily 
 endGroup 
 group \FBI - Delete Previous FBI at EOD
-12 Jul 2023 10:00PM: \FBI - Delete Previous FBI at EOD
-Every 1 day(s)
-nan #lkkang #Ready #Daily 
 13 Jul 2023 10:00PM: \FBI - Delete Previous FBI at EOD
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1196,11 +1226,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 10:00PM: \FBI - Delete Previous FBI at EOD
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
-endGroup 
-group \FBI - Refresh FBI Import
-12 Jul 2023 11:15AM: \FBI - Refresh FBI Import
+19 Jul 2023 10:00PM: \FBI - Delete Previous FBI at EOD
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+endGroup 
+group \FBI - Refresh FBI Import
 13 Jul 2023 11:15AM: \FBI - Refresh FBI Import
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1219,11 +1249,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 11:15AM: \FBI - Refresh FBI Import
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+19 Jul 2023 11:15AM: \FBI - Refresh FBI Import
+Every 1 day(s)
+nan #lkkang #Ready #Daily 
 endGroup 
 group \FMT
-12 Jul 2023 6:00AM: \FMT
-Every 1 day(s)
-nan #juanita #Ready #Daily 
 13 Jul 2023 6:00AM: \FMT
 Every 1 day(s)
 nan #juanita #Ready #Daily 
@@ -1242,11 +1272,11 @@ nan #juanita #Ready #Daily
 18 Jul 2023 6:00AM: \FMT
 Every 1 day(s)
 nan #juanita #Ready #Daily 
-endGroup 
-group \FMT
-12 Jul 2023 3:00PM: \FMT
+19 Jul 2023 6:00AM: \FMT
 Every 1 day(s)
 nan #juanita #Ready #Daily 
+endGroup 
+group \FMT
 13 Jul 2023 3:00PM: \FMT
 Every 1 day(s)
 nan #juanita #Ready #Daily 
@@ -1265,6 +1295,9 @@ nan #juanita #Ready #Daily
 18 Jul 2023 3:00PM: \FMT
 Every 1 day(s)
 nan #juanita #Ready #Daily 
+19 Jul 2023 3:00PM: \FMT
+Every 1 day(s)
+nan #juanita #Ready #Daily 
 endGroup 
 group \FSC BBM Estimated Monthly Bonus
 17 Jul 2023 5:16PM: \FSC BBM Estimated Monthly Bonus
@@ -1273,7 +1306,7 @@ nan #slmanalytics #Ready #Weekly
 18 Jul 2023 5:16PM: \FSC BBM Estimated Monthly Bonus
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
-12 Jul 2023 5:16PM: \FSC BBM Estimated Monthly Bonus
+19 Jul 2023 5:16PM: \FSC BBM Estimated Monthly Bonus
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 13 Jul 2023 5:16PM: \FSC BBM Estimated Monthly Bonus
@@ -1284,9 +1317,6 @@ MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 endGroup 
 group \FSC BBM List
-12 Jul 2023 4:45PM: \FSC BBM List
-Every 1 day(s)
-nan #slmanalytics #Disabled #Daily 
 13 Jul 2023 4:45PM: \FSC BBM List
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
@@ -1305,6 +1335,9 @@ nan #slmanalytics #Disabled #Daily
 18 Jul 2023 4:45PM: \FSC BBM List
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
+19 Jul 2023 4:45PM: \FSC BBM List
+Every 1 day(s)
+nan #slmanalytics #Disabled #Daily 
 endGroup 
 group \FSC BBM Production Incentive Summary
 17 Jul 2023 5:20PM: \FSC BBM Production Incentive Summary
@@ -1313,7 +1346,7 @@ nan #slmanalytics #Ready #Weekly
 18 Jul 2023 5:20PM: \FSC BBM Production Incentive Summary
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
-12 Jul 2023 5:20PM: \FSC BBM Production Incentive Summary
+19 Jul 2023 5:20PM: \FSC BBM Production Incentive Summary
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 13 Jul 2023 5:20PM: \FSC BBM Production Incentive Summary
@@ -1330,7 +1363,7 @@ nan #lkkang #Ready #Weekly
 18 Jul 2023 5:15PM: \FSC Break Egg
 MON, TUE, WED, THU, FRI
 nan #lkkang #Ready #Weekly
-12 Jul 2023 5:15PM: \FSC Break Egg
+19 Jul 2023 5:15PM: \FSC Break Egg
 MON, TUE, WED, THU, FRI
 nan #lkkang #Ready #Weekly
 13 Jul 2023 5:15PM: \FSC Break Egg
@@ -1341,9 +1374,6 @@ MON, TUE, WED, THU, FRI
 nan #lkkang #Ready #Weekly
 endGroup 
 group \FSC Dashboard - Incentive
-12 Jul 2023 3:00PM: \FSC Dashboard - Incentive
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 3:00PM: \FSC Dashboard - Incentive
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -1362,11 +1392,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 3:00PM: \FSC Dashboard - Incentive
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+19 Jul 2023 3:00PM: \FSC Dashboard - Incentive
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
 endGroup 
 group \FSC Dashboard Data
-12 Jul 2023 3:00PM: \FSC Dashboard Data
-Every 1 day(s)
-nan #lkkang #Ready #Daily 
 13 Jul 2023 3:00PM: \FSC Dashboard Data
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1385,11 +1415,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 3:00PM: \FSC Dashboard Data
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
-endGroup 
-group \FSC Dashboard Refresh
-12 Jul 2023 3:00PM: \FSC Dashboard Refresh
+19 Jul 2023 3:00PM: \FSC Dashboard Data
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+endGroup 
+group \FSC Dashboard Refresh
 13 Jul 2023 3:00PM: \FSC Dashboard Refresh
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1408,11 +1438,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 3:00PM: \FSC Dashboard Refresh
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
-endGroup 
-group \FSC Dashboard Refresh - Staff Listing
-12 Jul 2023 3:30PM: \FSC Dashboard Refresh - Staff Listing
+19 Jul 2023 3:00PM: \FSC Dashboard Refresh
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+endGroup 
+group \FSC Dashboard Refresh - Staff Listing
 13 Jul 2023 3:30PM: \FSC Dashboard Refresh - Staff Listing
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1429,6 +1459,9 @@ nan #lkkang #Ready #Daily
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
 18 Jul 2023 3:30PM: \FSC Dashboard Refresh - Staff Listing
+Every 1 day(s)
+nan #lkkang #Ready #Daily 
+19 Jul 2023 3:30PM: \FSC Dashboard Refresh - Staff Listing
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
 endGroup 
@@ -1454,7 +1487,7 @@ nan #slmanalytics #Ready #Weekly
 18 Jul 2023 5:18PM: \FSC Productivity Drive
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
-12 Jul 2023 5:18PM: \FSC Productivity Drive
+19 Jul 2023 5:18PM: \FSC Productivity Drive
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 13 Jul 2023 5:18PM: \FSC Productivity Drive
@@ -1471,7 +1504,7 @@ nan #slmanalytics #Ready #Weekly
 18 Jul 2023 5:17PM: \FSC Quarterly Sun Enrich-i Break Egg
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
-12 Jul 2023 5:17PM: \FSC Quarterly Sun Enrich-i Break Egg
+19 Jul 2023 5:17PM: \FSC Quarterly Sun Enrich-i Break Egg
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 13 Jul 2023 5:17PM: \FSC Quarterly Sun Enrich-i Break Egg
@@ -1488,7 +1521,7 @@ nan #slmanalytics #Ready #Weekly
 18 Jul 2023 5:25PM: \FSC Rider Incentive
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
-12 Jul 2023 5:25PM: \FSC Rider Incentive
+19 Jul 2023 5:25PM: \FSC Rider Incentive
 MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 13 Jul 2023 5:25PM: \FSC Rider Incentive
@@ -1499,9 +1532,6 @@ MON, TUE, WED, THU, FRI
 nan #slmanalytics #Ready #Weekly
 endGroup 
 group \FSC Staff Listing
-12 Jul 2023 3:35PM: \FSC Staff Listing
-Every 1 day(s)
-nan #lkkang #Ready #Daily 
 13 Jul 2023 3:35PM: \FSC Staff Listing
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -1520,6 +1550,9 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 3:35PM: \FSC Staff Listing
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+19 Jul 2023 3:35PM: \FSC Staff Listing
+Every 1 day(s)
+nan #lkkang #Ready #Daily 
 endGroup 
 group \IHCC - Client Demog Datamart
 17 Jul 2023 11:36PM: \IHCC - Client Demog Datamart
@@ -1527,9 +1560,6 @@ group \IHCC - Client Demog Datamart
 Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Monthly
 endGroup 
 group \IHCC - Client Demog Datamart
-12 Jul 2023 11:35PM: \IHCC - Client Demog Datamart
-Every 1 day(s)
-Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Daily 
 13 Jul 2023 11:35PM: \IHCC - Client Demog Datamart
 Every 1 day(s)
 Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Daily 
@@ -1546,6 +1576,9 @@ Client Demog datamart - one of the datasets used when generating leads #slmanaly
 Every 1 day(s)
 Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Daily 
 18 Jul 2023 11:35PM: \IHCC - Client Demog Datamart
+Every 1 day(s)
+Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Daily 
+19 Jul 2023 11:35PM: \IHCC - Client Demog Datamart
 Every 1 day(s)
 Client Demog datamart - one of the datasets used when generating leads #slmanalytics #Ready #Daily 
 endGroup 
@@ -1567,9 +1600,6 @@ Do Not Call list for In House leads (Monthly) #slmanalytics #Disabled #Monthly
 Do Not Call list for In House leads (Monthly) #slmanalytics #Disabled #Monthly
 endGroup 
 group \IHCC - Exclusion List (New)
-12 Jul 2023 8:00PM: \IHCC - Exclusion List (New)
-Every 1 day(s)
-Do Not Call List for IHCC monthly calling leads allocation #slmanalytics #Ready #Daily 
 13 Jul 2023 8:00PM: \IHCC - Exclusion List (New)
 Every 1 day(s)
 Do Not Call List for IHCC monthly calling leads allocation #slmanalytics #Ready #Daily 
@@ -1588,6 +1618,9 @@ Do Not Call List for IHCC monthly calling leads allocation #slmanalytics #Ready 
 18 Jul 2023 8:00PM: \IHCC - Exclusion List (New)
 Every 1 day(s)
 Do Not Call List for IHCC monthly calling leads allocation #slmanalytics #Ready #Daily 
+19 Jul 2023 8:00PM: \IHCC - Exclusion List (New)
+Every 1 day(s)
+Do Not Call List for IHCC monthly calling leads allocation #slmanalytics #Ready #Daily 
 endGroup 
 group \IHCC - RTC Policies
 endGroup 
@@ -1601,9 +1634,6 @@ group \IHCC Uncontactable Leads
 IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Monthly
 endGroup 
 group \IHCC Uncontactable Leads
-12 Jul 2023 9:30PM: \IHCC Uncontactable Leads
-Every 1 day(s)
-IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Daily 
 13 Jul 2023 9:30PM: \IHCC Uncontactable Leads
 Every 1 day(s)
 IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Daily 
@@ -1622,11 +1652,11 @@ IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Daily
 18 Jul 2023 9:30PM: \IHCC Uncontactable Leads
 Every 1 day(s)
 IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Daily 
+19 Jul 2023 9:30PM: \IHCC Uncontactable Leads
+Every 1 day(s)
+IHCC Uncontactable Leads - runs monthly #lkkang #Ready #Daily 
 endGroup 
 group \Kent - Combine Banca & DMTM
-12 Jul 2023 7:00AM: \Kent - Combine Banca & DMTM
-Every 1 day(s)
-Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
 13 Jul 2023 7:00AM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
@@ -1645,6 +1675,9 @@ Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference
 18 Jul 2023 7:00AM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
+19 Jul 2023 7:00AM: \Kent - Combine Banca & DMTM
+Every 1 day(s)
+Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
 endGroup 
 group \Kent - Combine Banca & DMTM
 01 Jul 2023 1:01PM: \Kent - Combine Banca & DMTM
@@ -1652,9 +1685,6 @@ group \Kent - Combine Banca & DMTM
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Monthly
 endGroup 
 group \Kent - Combine Banca & DMTM
-12 Jul 2023 12:00PM: \Kent - Combine Banca & DMTM
-Every 1 day(s)
-Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
 13 Jul 2023 12:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
@@ -1673,11 +1703,11 @@ Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference
 18 Jul 2023 12:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
-endGroup 
-group \Kent - Combine Banca & DMTM
-12 Jul 2023 2:00PM: \Kent - Combine Banca & DMTM
+19 Jul 2023 12:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
+endGroup 
+group \Kent - Combine Banca & DMTM
 13 Jul 2023 2:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
@@ -1696,11 +1726,11 @@ Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference
 18 Jul 2023 2:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
-endGroup 
-group \Kent - Combine Banca & DMTM
-12 Jul 2023 5:00PM: \Kent - Combine Banca & DMTM
+19 Jul 2023 2:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
+endGroup 
+group \Kent - Combine Banca & DMTM
 13 Jul 2023 5:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
@@ -1719,11 +1749,11 @@ Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference
 18 Jul 2023 5:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
-endGroup 
-group \Kent - Combine Banca & DMTM
-12 Jul 2023 10:00AM: \Kent - Combine Banca & DMTM
+19 Jul 2023 5:00PM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
+endGroup 
+group \Kent - Combine Banca & DMTM
 13 Jul 2023 10:00AM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
@@ -1742,6 +1772,9 @@ Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference
 18 Jul 2023 10:00AM: \Kent - Combine Banca & DMTM
 Every 1 day(s)
 Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
+19 Jul 2023 10:00AM: \Kent - Combine Banca & DMTM
+Every 1 day(s)
+Consolidated listing (for sponsor and call centre, Banca and DMTM) for reference, requested by Kent #juanita #Ready #Daily 
 endGroup 
 group \Kent - Digital Count (v2)
 07 Jul 2023 8:30PM: \Kent - Digital Count (v2)
@@ -1754,9 +1787,6 @@ group \Naomi - Client Level Data (RP_and_CL)
 nan #slmanalytics #Ready #Monthly
 endGroup 
 group \Naomi - Client Level Data (RP_and_CL)
-12 Jul 2023 3:00PM: \Naomi - Client Level Data (RP_and_CL)
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 3:00PM: \Naomi - Client Level Data (RP_and_CL)
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -1775,6 +1805,9 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 3:00PM: \Naomi - Client Level Data (RP_and_CL)
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+19 Jul 2023 3:00PM: \Naomi - Client Level Data (RP_and_CL)
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
 endGroup 
 group \NB - AUW Report
 17 Jul 2023 10:00AM: \NB - AUW Report
@@ -1783,7 +1816,7 @@ Summary & Listing - Poh Hwa #juanita #Ready #Weekly
 18 Jul 2023 10:00AM: \NB - AUW Report
 MON, TUE, WED, THU, FRI
 Summary & Listing - Poh Hwa #juanita #Ready #Weekly
-12 Jul 2023 10:00AM: \NB - AUW Report
+19 Jul 2023 10:00AM: \NB - AUW Report
 MON, TUE, WED, THU, FRI
 Summary & Listing - Poh Hwa #juanita #Ready #Weekly
 13 Jul 2023 10:00AM: \NB - AUW Report
@@ -1800,7 +1833,7 @@ Daily basis update Incomplete Policy Listing (CIMB TAT report for NB Raymond Raj
 18 Jul 2023 1:10PM: \NB - CIMB TAT (Incomplete)
 MON, TUE, WED, THU, FRI
 Daily basis update Incomplete Policy Listing (CIMB TAT report for NB Raymond Raj to send to CIMB Bank) #jlkor #Ready #Weekly
-12 Jul 2023 1:10PM: \NB - CIMB TAT (Incomplete)
+19 Jul 2023 1:10PM: \NB - CIMB TAT (Incomplete)
 MON, TUE, WED, THU, FRI
 Daily basis update Incomplete Policy Listing (CIMB TAT report for NB Raymond Raj to send to CIMB Bank) #jlkor #Ready #Weekly
 13 Jul 2023 1:10PM: \NB - CIMB TAT (Incomplete)
@@ -1817,7 +1850,7 @@ Daily basis update Policy Change Status Date (CIMB TAT report for NB Raymond Raj
 18 Jul 2023 4:00PM: \NB - CIMB TAT (UW_WD)
 MON, TUE, WED, THU, FRI
 Daily basis update Policy Change Status Date (CIMB TAT report for NB Raymond Raj to send to CIMB Bank) #jlkor #Ready #Weekly
-12 Jul 2023 4:00PM: \NB - CIMB TAT (UW_WD)
+19 Jul 2023 4:00PM: \NB - CIMB TAT (UW_WD)
 MON, TUE, WED, THU, FRI
 Daily basis update Policy Change Status Date (CIMB TAT report for NB Raymond Raj to send to CIMB Bank) #jlkor #Ready #Weekly
 13 Jul 2023 4:00PM: \NB - CIMB TAT (UW_WD)
@@ -1839,9 +1872,6 @@ Weekly basis CIMB TAT report for NB Raymond Raj to send to CIMB Bank #jlkor #Rea
 Weekly basis CIMB TAT report for NB Raymond Raj to send to CIMB Bank #jlkor #Ready #Monthly
 endGroup 
 group \NB - Incomplete Report (Email)
-12 Jul 2023 5:00AM: \NB - Incomplete Report (Email)
-Every 1 day(s)
-After email extraction of incomplete zip, transform into SAS dataset. #juanita #Ready #Daily 
 13 Jul 2023 5:00AM: \NB - Incomplete Report (Email)
 Every 1 day(s)
 After email extraction of incomplete zip, transform into SAS dataset. #juanita #Ready #Daily 
@@ -1860,11 +1890,11 @@ After email extraction of incomplete zip, transform into SAS dataset. #juanita #
 18 Jul 2023 5:00AM: \NB - Incomplete Report (Email)
 Every 1 day(s)
 After email extraction of incomplete zip, transform into SAS dataset. #juanita #Ready #Daily 
+19 Jul 2023 5:00AM: \NB - Incomplete Report (Email)
+Every 1 day(s)
+After email extraction of incomplete zip, transform into SAS dataset. #juanita #Ready #Daily 
 endGroup 
 group \NB - Incomplete Report (New)
-12 Jul 2023 5:15AM: \NB - Incomplete Report (New)
-Every 1 day(s)
-nan #juanita #Ready #Daily 
 13 Jul 2023 5:15AM: \NB - Incomplete Report (New)
 Every 1 day(s)
 nan #juanita #Ready #Daily 
@@ -1881,6 +1911,9 @@ nan #juanita #Ready #Daily
 Every 1 day(s)
 nan #juanita #Ready #Daily 
 18 Jul 2023 5:15AM: \NB - Incomplete Report (New)
+Every 1 day(s)
+nan #juanita #Ready #Daily 
+19 Jul 2023 5:15AM: \NB - Incomplete Report (New)
 Every 1 day(s)
 nan #juanita #Ready #Daily 
 endGroup 
@@ -1934,6 +1967,9 @@ nan #juanita #Ready #Monthly
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
 18 Jul 2023 10:00AM: \NBDIY - Al Rajhi
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
+19 Jul 2023 10:00AM: \NBDIY - Al Rajhi
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
 endGroup 
@@ -1994,6 +2030,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 10:50AM: \NBDIY - Bank Pertama
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 10:50AM: \NBDIY - Bank Pertama
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \NBDIY - Bank Pertama
 01 Jul 2023 1:50PM: \NBDIY - Bank Pertama
@@ -2052,6 +2091,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 10:20AM: \NBDIY - CIMB
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 10:20AM: \NBDIY - CIMB
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \NBDIY - CIMB
 01 Jul 2023 1:20PM: \NBDIY - CIMB
@@ -2065,7 +2107,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 2:30PM: \NBDIY - Combine
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 2:30PM: \NBDIY - Combine
+19 Jul 2023 2:30PM: \NBDIY - Combine
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 2:30PM: \NBDIY - Combine
@@ -2127,6 +2169,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 10:10AM: \NBDIY - CPAM (Principal)
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 10:10AM: \NBDIY - CPAM (Principal)
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \NBDIY - CPAM (Principal)
 01 Jul 2023 1:10PM: \NBDIY - CPAM (Principal)
@@ -2183,6 +2228,9 @@ nan #juanita #Ready #Monthly
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
 18 Jul 2023 10:40AM: \NBDIY - Direct Agency
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
+19 Jul 2023 10:40AM: \NBDIY - Direct Agency
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
 endGroup 
@@ -2243,6 +2291,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 11:00AM: \NBDIY - FA (Agency)
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 11:00AM: \NBDIY - FA (Agency)
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \NBDIY - FA (Agency)
 01 Jul 2023 2:00PM: \NBDIY - FA (Agency)
@@ -2301,6 +2352,9 @@ nan #juanita #Ready #Monthly
 18 Jul 2023 10:30AM: \NBDIY - TIED
 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
 nan #juanita #Ready #Monthly
+19 Jul 2023 10:30AM: \NBDIY - TIED
+02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+nan #juanita #Ready #Monthly
 endGroup 
 group \NBDIY - TIED
 01 Jul 2023 1:30PM: \NBDIY - TIED
@@ -2316,9 +2370,6 @@ Refresh Persistency Dashboard Source Files #slmanalytics #Ready #Monthly
 Refresh Persistency Dashboard Source Files #slmanalytics #Ready #Monthly
 endGroup 
 group \Refresh Namelist & Export Task Scheduler xml
-12 Jul 2023 1:00AM: \Refresh Namelist & Export Task Scheduler xml
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 1:00AM: \Refresh Namelist & Export Task Scheduler xml
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -2335,6 +2386,9 @@ nan #slmanalytics #Ready #Daily
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 18 Jul 2023 1:00AM: \Refresh Namelist & Export Task Scheduler xml
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
+19 Jul 2023 1:00AM: \Refresh Namelist & Export Task Scheduler xml
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 endGroup 
@@ -2365,6 +2419,9 @@ RTC Banca/ Non-Banca tagging from CIMB (returned file) #slmanalytics #Ready #Mon
 18 Jul 2023 11:45AM: \RTC - Submission from CIMB
 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
 RTC Banca/ Non-Banca tagging from CIMB (returned file) #slmanalytics #Ready #Monthly
+19 Jul 2023 11:45AM: \RTC - Submission from CIMB
+12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+RTC Banca/ Non-Banca tagging from CIMB (returned file) #slmanalytics #Ready #Monthly
 endGroup 
 group \RTC - Submissions to CIMB
 11 Jul 2023 11:25AM: \RTC - Submissions to CIMB
@@ -2384,9 +2441,6 @@ group \Schedule - CRM_Call_Log
 nan #ykho #Ready #Monthly
 endGroup 
 group \Schedule - Daily Billing
-12 Jul 2023 8:02AM: \Schedule - Daily Billing
-Every 1 day(s)
-nan #slmanalytics #Disabled #Daily 
 13 Jul 2023 8:02AM: \Schedule - Daily Billing
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
@@ -2405,11 +2459,11 @@ nan #slmanalytics #Disabled #Daily
 18 Jul 2023 8:02AM: \Schedule - Daily Billing
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
+19 Jul 2023 8:02AM: \Schedule - Daily Billing
+Every 1 day(s)
+nan #slmanalytics #Disabled #Daily 
 endGroup 
 group \Schedule - Daily Billing (New)
-12 Jul 2023 8:02AM: \Schedule - Daily Billing (New)
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 8:02AM: \Schedule - Daily Billing (New)
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -2428,11 +2482,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 8:02AM: \Schedule - Daily Billing (New)
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
-endGroup 
-group \Schedule - Daily Policyowner Contact
-12 Jul 2023 7:31AM: \Schedule - Daily Policyowner Contact
+19 Jul 2023 8:02AM: \Schedule - Daily Billing (New)
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+endGroup 
+group \Schedule - Daily Policyowner Contact
 13 Jul 2023 7:31AM: \Schedule - Daily Policyowner Contact
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -2449,6 +2503,9 @@ nan #slmanalytics #Ready #Daily
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 18 Jul 2023 7:31AM: \Schedule - Daily Policyowner Contact
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
+19 Jul 2023 7:31AM: \Schedule - Daily Policyowner Contact
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
 endGroup 
@@ -2483,9 +2540,6 @@ group \Schedule - SPMC_Fulfilment
 nan #ykho #Ready #Monthly
 endGroup 
 group \Scrap Sunaccess
-12 Jul 2023 7:05PM: \Scrap Sunaccess
-Every 1 day(s)
-nan #lkkang #Ready #Daily 
 13 Jul 2023 7:05PM: \Scrap Sunaccess
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -2504,11 +2558,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 7:05PM: \Scrap Sunaccess
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
-endGroup 
-group \Scrap Sunaccess SAS
-12 Jul 2023 7:20PM: \Scrap Sunaccess SAS
+19 Jul 2023 7:05PM: \Scrap Sunaccess
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+endGroup 
+group \Scrap Sunaccess SAS
 13 Jul 2023 7:20PM: \Scrap Sunaccess SAS
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
@@ -2527,11 +2581,11 @@ nan #lkkang #Ready #Daily
 18 Jul 2023 7:20PM: \Scrap Sunaccess SAS
 Every 1 day(s)
 nan #lkkang #Ready #Daily 
+19 Jul 2023 7:20PM: \Scrap Sunaccess SAS
+Every 1 day(s)
+nan #lkkang #Ready #Daily 
 endGroup 
 group \Scrap SunSmart
-12 Jul 2023 4:00PM: \Scrap SunSmart
-Every 1 day(s)
-nan #slmanalytics #Disabled #Daily 
 13 Jul 2023 4:00PM: \Scrap SunSmart
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
@@ -2550,6 +2604,9 @@ nan #slmanalytics #Disabled #Daily
 18 Jul 2023 4:00PM: \Scrap SunSmart
 Every 1 day(s)
 nan #slmanalytics #Disabled #Daily 
+19 Jul 2023 4:00PM: \Scrap SunSmart
+Every 1 day(s)
+nan #slmanalytics #Disabled #Daily 
 endGroup 
 group \Sharepoint - Listing Excel Macro Refresh
 17 Jul 2023 9:00AM: \Sharepoint - Listing Excel Macro Refresh
@@ -2558,7 +2615,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 9:00AM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 9:00AM: \Sharepoint - Listing Excel Macro Refresh
+19 Jul 2023 9:00AM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 9:00AM: \Sharepoint - Listing Excel Macro Refresh
@@ -2575,7 +2632,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 12:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 12:00PM: \Sharepoint - Listing Excel Macro Refresh
+19 Jul 2023 12:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 12:00PM: \Sharepoint - Listing Excel Macro Refresh
@@ -2592,7 +2649,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 3:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 3:00PM: \Sharepoint - Listing Excel Macro Refresh
+19 Jul 2023 3:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 3:00PM: \Sharepoint - Listing Excel Macro Refresh
@@ -2609,7 +2666,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 4:45PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 4:45PM: \Sharepoint - Listing Excel Macro Refresh
+19 Jul 2023 4:45PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 4:45PM: \Sharepoint - Listing Excel Macro Refresh
@@ -2626,7 +2683,7 @@ nan #juanita #Ready #Weekly
 18 Jul 2023 7:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
-12 Jul 2023 7:00PM: \Sharepoint - Listing Excel Macro Refresh
+19 Jul 2023 7:00PM: \Sharepoint - Listing Excel Macro Refresh
 MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 13 Jul 2023 7:00PM: \Sharepoint - Listing Excel Macro Refresh
@@ -2637,9 +2694,6 @@ MON, TUE, WED, THU, FRI
 nan #juanita #Ready #Weekly
 endGroup 
 group \Update Billing Files
-12 Jul 2023 7:45PM: \Update Billing Files
-Every 1 day(s)
-nan #slmanalytics #Ready #Daily 
 13 Jul 2023 7:45PM: \Update Billing Files
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
@@ -2658,11 +2712,11 @@ nan #slmanalytics #Ready #Daily
 18 Jul 2023 7:45PM: \Update Billing Files
 Every 1 day(s)
 nan #slmanalytics #Ready #Daily 
+19 Jul 2023 7:45PM: \Update Billing Files
+Every 1 day(s)
+nan #slmanalytics #Ready #Daily 
 endGroup 
 group \User_Feed_Synchronization-{093A253E-48E2-4B2B-BD4F-98072310B7D5}
-12 Jul 2023 12:09PM: \User_Feed_Synchronization-{093A253E-48E2-4B2B-BD4F-98072310B7D5}
-Every 1 day(s)
-Updates out-of-date system feeds. #slmanalytics #Ready #Daily 
 13 Jul 2023 12:09PM: \User_Feed_Synchronization-{093A253E-48E2-4B2B-BD4F-98072310B7D5}
 Every 1 day(s)
 Updates out-of-date system feeds. #slmanalytics #Ready #Daily 
@@ -2679,6 +2733,9 @@ Updates out-of-date system feeds. #slmanalytics #Ready #Daily
 Every 1 day(s)
 Updates out-of-date system feeds. #slmanalytics #Ready #Daily 
 18 Jul 2023 12:09PM: \User_Feed_Synchronization-{093A253E-48E2-4B2B-BD4F-98072310B7D5}
+Every 1 day(s)
+Updates out-of-date system feeds. #slmanalytics #Ready #Daily 
+19 Jul 2023 12:09PM: \User_Feed_Synchronization-{093A253E-48E2-4B2B-BD4F-98072310B7D5}
 Every 1 day(s)
 Updates out-of-date system feeds. #slmanalytics #Ready #Daily 
 endGroup 
